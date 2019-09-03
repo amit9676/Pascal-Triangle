@@ -1,0 +1,13 @@
+F:\projects\pascal triangle2\bin\Debug\pascal triangle2.exe.config
+F:\projects\pascal triangle2\bin\Debug\pascal triangle2.exe
+F:\projects\pascal triangle2\bin\Debug\pascal triangle2.pdb
+F:\projects\pascal triangle2\obj\Debug\pascal triangle2.csproj.CoreCompileInputs.cache
+F:\projects\pascal triangle2\obj\Debug\pascal triangle2.exe
+F:\projects\pascal triangle2\obj\Debug\pascal triangle2.pdb
+F:\projects\pascal triangle\bin\Debug\pascal triangle2.exe.config
+F:\projects\pascal triangle\bin\Debug\pascal triangle2.exe
+F:\projects\pascal triangle\bin\Debug\pascal triangle2.pdb
+F:\projects\pascal triangle\obj\Debug\pascal triangle2.csprojAssemblyReference.cache
+F:\projects\pascal triangle\obj\Debug\pascal triangle2.csproj.CoreCompileInputs.cache
+F:\projects\pascal triangle\obj\Debug\pascal triangle2.exe
+F:\projects\pascal triangle\obj\Debug\pascal triangle2.pdb
